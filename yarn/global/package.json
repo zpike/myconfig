@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@umijs/create-umi-app": "^3.5.20",
+    "@vitejs/create-app": "^2.5.2",
+    "serve": "^13.0.2"
+  }
+}
